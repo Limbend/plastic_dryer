@@ -1,0 +1,6 @@
+﻿"pin_l"=5
+"pin_skew"=4
+"pin_r"=5
+"thickness"=4
+"M4_plastic_thread"=3.8
+"M3_plastic_thread" = 2.8
