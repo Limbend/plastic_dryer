@@ -16,7 +16,7 @@ Thumbs.db
 
 # Not public
 *.np.*
-Origin/
+origin/
 
 #temp files
 ~$*
