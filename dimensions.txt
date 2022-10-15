@@ -5,3 +5,4 @@
 "M4_plastic_thread"=3.8
 "M3_plastic_thread" = 2.8
 "min_d"=0.2
+"M4_hole"= 4.3
